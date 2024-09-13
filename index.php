@@ -1,4 +1,6 @@
-<!doctype html>
+<?php
+include "view-header.php";
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
